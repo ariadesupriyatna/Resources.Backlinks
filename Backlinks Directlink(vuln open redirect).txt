@@ -1,0 +1,3 @@
+http://maps.google.com/url?q=https://domain.com/
+http://images.google.com/url?q=https://domain.com/
+http://google.com/url?q=https://domain.com/
